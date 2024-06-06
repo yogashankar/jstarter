@@ -3,7 +3,7 @@ Feature: I open the store and choose a jacket
   Background:
     Given I open the Store Website
 
-  @WebTest
+
   Scenario: I choose the costliest Jacket
     Given I choose the mens jacket section
     When I pick the cheapest jacket
