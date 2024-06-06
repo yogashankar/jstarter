@@ -1,0 +1,62 @@
+22:33:08.767 [main] INFO  Pages.HomePage - initialising the Home Page class
+22:33:15.366 [main] INFO  Pages.HomePage - navigating to the mens jackets page menu item
+22:33:23.024 [main] INFO  Pages.JacketsPage - Initialising the Jackets Page
+22:33:23.113 [main] INFO  Pages.JacketsPage - Selecting the cheapest jacket
+22:33:24.157 [main] INFO  Pages.JacketsPage - jacket object returned
+22:33:24.157 [main] INFO  Pages.JacketsPage - setting test data 'SelectedJacket' as selected jacket product
+22:33:24.231 [main] INFO  Pages.JacketsPage - SelectedJacket set in context Pages.JacketsPage$Jacket@4baed682
+22:33:27.920 [main] INFO  Pages.ProductPage - initialising Product 
+22:33:36.753 [main] INFO  Pages.ProductPage - Verifying the success message displayed on Product Page
+22:33:36.760 [main] INFO  Pages.ProductPage - SelectedJacket from context: Pages.JacketsPage$Jacket@4baed682
+22:33:36.824 [main] INFO  Pages.ProductPage - Expected Message: You added Lando Gym Jacket to your shopping cart.
+22:33:36.824 [main] INFO  Pages.ProductPage - Actual message: You added Lando Gym Jacket to your shopping cart.
+22:33:37.841 [main] INFO  Pages.HomePage - initialising the Home Page class
+22:33:43.496 [main] INFO  Pages.HomePage - navigating to the mens jackets page menu item
+22:33:50.136 [main] INFO  Pages.JacketsPage - Initialising the Jackets Page
+22:33:50.183 [main] INFO  Pages.JacketsPage - Selecting the cheapest jacket
+22:33:51.086 [main] INFO  Pages.JacketsPage - jacket object returned
+22:33:51.086 [main] INFO  Pages.JacketsPage - setting test data 'SelectedJacket' as selected jacket product
+22:33:51.136 [main] INFO  Pages.JacketsPage - SelectedJacket set in context Pages.JacketsPage$Jacket@4877919f
+22:33:54.749 [main] INFO  Pages.ProductPage - initialising Product 
+22:33:57.373 [main] INFO  Pages.ProductPage - Verifying the success message displayed on Product Page
+22:33:57.373 [main] INFO  Pages.ProductPage - SelectedJacket from context: Pages.JacketsPage$Jacket@4877919f
+22:33:57.432 [main] INFO  Pages.ProductPage - Expected Message: You added Beaumont Summit Kit to your shopping cart.
+22:33:57.432 [main] INFO  Pages.ProductPage - Actual message: You added Beaumont Summit Kit to your shopping cart.
+22:47:48.636 [main] INFO  Pages.HomePage - initialising the Home Page class
+22:47:53.840 [main] INFO  Pages.HomePage - navigating to the mens jackets page menu item
+22:48:01.251 [main] INFO  Pages.JacketsPage - Initialising the Jackets Page
+22:48:01.322 [main] INFO  Pages.JacketsPage - Selecting the cheapest jacket
+22:48:02.317 [main] INFO  Pages.JacketsPage - jacket object returned
+22:48:02.317 [main] INFO  Pages.JacketsPage - setting test data 'SelectedJacket' as selected jacket product
+22:48:02.395 [main] INFO  Pages.JacketsPage - SelectedJacket set in context Pages.JacketsPage$Jacket@4fc5563d
+22:48:05.969 [main] INFO  Pages.ProductPage - initialising Product 
+22:48:13.756 [main] INFO  Pages.ProductPage - Verifying the success message displayed on Product Page
+22:48:13.756 [main] INFO  Pages.ProductPage - SelectedJacket from context: Pages.JacketsPage$Jacket@4fc5563d
+22:48:13.816 [main] INFO  Pages.ProductPage - Expected Message: You added Lando Gym Jacket to your shopping cart.
+22:48:13.817 [main] INFO  Pages.ProductPage - Actual message: You added Lando Gym Jacket to your shopping cart.
+22:48:14.843 [main] INFO  Pages.HomePage - initialising the Home Page class
+22:48:19.825 [main] INFO  Pages.HomePage - navigating to the mens jackets page menu item
+22:48:26.737 [main] INFO  Pages.JacketsPage - Initialising the Jackets Page
+22:48:26.775 [main] INFO  Pages.JacketsPage - Selecting the cheapest jacket
+22:48:27.167 [main] INFO  Pages.JacketsPage - jacket object returned
+22:48:27.167 [main] INFO  Pages.JacketsPage - setting test data 'SelectedJacket' as selected jacket product
+22:48:27.188 [main] INFO  Pages.JacketsPage - SelectedJacket set in context Pages.JacketsPage$Jacket@69a024a0
+22:48:30.219 [main] INFO  Pages.ProductPage - initialising Product 
+22:48:33.135 [main] INFO  Pages.ProductPage - Verifying the success message displayed on Product Page
+22:48:33.135 [main] INFO  Pages.ProductPage - SelectedJacket from context: Pages.JacketsPage$Jacket@69a024a0
+22:48:33.202 [main] INFO  Pages.ProductPage - Expected Message: You added Beaumont Summit Kit to your shopping cart.
+22:48:33.202 [main] INFO  Pages.ProductPage - Actual message: You added Beaumont Summit Kit to your shopping cart.
+22:49:15.519 [main] INFO  Pages.HomePage - initialising the Home Page class
+22:49:21.331 [main] INFO  Pages.HomePage - navigating to the mens jackets page menu item
+22:49:28.089 [main] INFO  Pages.HomePage - initialising the Home Page class
+22:49:33.593 [main] INFO  Pages.HomePage - navigating to the mens jackets page menu item
+22:49:40.880 [main] INFO  Pages.JacketsPage - Initialising the Jackets Page
+22:49:40.917 [main] INFO  Pages.JacketsPage - Selecting the cheapest jacket
+22:49:41.320 [main] INFO  Pages.JacketsPage - jacket object returned
+22:49:41.320 [main] INFO  Pages.JacketsPage - setting test data 'SelectedJacket' as selected jacket product
+22:49:41.346 [main] INFO  Pages.JacketsPage - SelectedJacket set in context Pages.JacketsPage$Jacket@d4df0e
+22:49:44.472 [main] INFO  Pages.ProductPage - initialising Product 
+22:49:52.013 [main] INFO  Pages.ProductPage - Verifying the success message displayed on Product Page
+22:49:52.014 [main] INFO  Pages.ProductPage - SelectedJacket from context: Pages.JacketsPage$Jacket@d4df0e
+22:49:52.038 [main] INFO  Pages.ProductPage - Expected Message: You added Beaumont Summit Kit to your shopping cart.
+22:49:52.038 [main] INFO  Pages.ProductPage - Actual message: You added Beaumont Summit Kit to your shopping cart.

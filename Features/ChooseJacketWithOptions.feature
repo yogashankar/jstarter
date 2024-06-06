@@ -13,4 +13,3 @@ Feature: I open the store and choose a jacket
     And I verify jacket details
     And I Add the jacket to the cart
     Then I see success message on page
-    Then I quit

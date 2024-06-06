@@ -27,9 +27,8 @@ public class PageOps {
     private WebDriver driver;
     private WebDriverWait wait;
 
-    public PageOps(SeleniumConfig cfg) {
-        this.driver = cfg.getDriver();
-        this.wait = cfg.getWait();
+    public PageOps() {
+        this.driver = BrowserFactory.getBrowser("Chrome").getDiver();
     }
 
     @Given("I open the Store Website")
@@ -106,7 +105,7 @@ public class PageOps {
 
     @After(value = "@WebTest")
     public void tearDown(Scenario scenario) {
-        WebDriver d = (WebDriver) context.getTestProperty("driver");
+        WebDriver d = driver;
         if (scenario.isFailed()) {
             File scr = ((TakesScreenshot) d).getScreenshotAs(OutputType.FILE);
             try {
