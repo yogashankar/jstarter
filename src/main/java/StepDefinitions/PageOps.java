@@ -1,5 +1,6 @@
 package StepDefinitions;
 
+import Pages.*;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
